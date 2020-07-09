@@ -1,6 +1,6 @@
 title: Chris Jennings Blog for Brookes
 description: This web site os a sample for my students
-header_feature_image: /uploads/pages.jpg
+header_feature_image: ../uploads/49078305272_9001a1d84a_3k.jpg
 items:
   - name: Editor
     siteurl: /admin/
