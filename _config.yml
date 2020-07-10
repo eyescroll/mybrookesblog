@@ -21,8 +21,8 @@ defaults:
 
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+url: "https://luckypudding.netlify.app"   #change this to yours
+repository: chrisatbrookes/mybrookesblog
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
